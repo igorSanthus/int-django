@@ -1,0 +1,7 @@
+python manage.py
+python manage.py runserver
+python manage.py makemigrations
+python manage.py migrate
+python manage.py createsuperuser
+#(user:igorsantos; email: rogigor08@gmail.com, senha:123456789)
+python manage.py shell
